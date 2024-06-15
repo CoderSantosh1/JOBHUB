@@ -268,7 +268,7 @@
 
 
 /*** Job Listing ***/
-.nav-pills .nav-item .active {
+/* .nav-pills .nav-item .active {
     border-bottom: 2px solid var(--primary);
 }
 
@@ -282,11 +282,11 @@
 .job-item:hover {
     border-color: rgba(0, 0, 0, .08);
     box-shadow: none;
-}
+} */
 
 
 /*** Testimonial ***/
-.testimonial-carousel .owl-item .testimonial-item,
+/* .testimonial-carousel .owl-item .testimonial-item,
 .testimonial-carousel .owl-item.center .testimonial-item * {
     transition: .5s;
 }
@@ -323,7 +323,7 @@
 }
 
 
-
+ */
 
 /* Logi Page */
 

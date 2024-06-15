@@ -1,1 +1,1 @@
-# scriptriz-jobportal-website-template.github.io
+#  develop by santosh kumar
